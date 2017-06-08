@@ -3,6 +3,7 @@ $conn = mysqli_connect("localhost", "root", "abcd1234", "gr");
 
 $classid= $_POST["classid"];
 
+echo "$classid";
 $statement = mysqli_prepare($conn, "SELECT * FROM post WHERE classid= ? ORDER BY timestamp DESC") or die(mysqli_error($conn));
 mysqli_stmt_bind_param($statement, "s", $classid);
 $statement->execute();
