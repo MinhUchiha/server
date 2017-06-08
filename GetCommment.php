@@ -1,5 +1,5 @@
 <?php
-$conn = mysqli_connect("localhost", "root", "1234abcd", "gr");
+$conn = mysqli_connect("localhost", "root", "abcd1234", "gr");
 
 $postid = $_POST["postid"];
 

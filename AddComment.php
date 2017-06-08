@@ -1,6 +1,6 @@
 <?php
 
-$connect = mysqli_connect("localhost", "root", "1234abcd", "gr");
+$connect = mysqli_connect("localhost", "root", "abcd1234", "gr");
 
 $postid = $_POST["postid"];
 $username = $_POST["username"];

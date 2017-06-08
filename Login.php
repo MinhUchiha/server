@@ -1,6 +1,6 @@
 <?php
 require("password.php");
-$conn = mysqli_connect("localhost", "root", "1234abcd", "gr");
+$conn = mysqli_connect("localhost", "root", "abcd1234", "gr");
 
 $username = $_POST["username"];
 $password = $_POST["password"];

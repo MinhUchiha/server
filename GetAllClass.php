@@ -1,5 +1,5 @@
 <?php
-$conn = mysqli_connect("localhost", "root", "1234abcd", "gr");
+$conn = mysqli_connect("localhost", "root", "abcd1234", "gr");
 
 $statement = mysqli_prepare($conn, "SELECT * FROM class ") or die(mysqli_error($conn));
 $statement->execute();
