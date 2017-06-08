@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e10da3b5-dbc4-42dc-8f13-d5f925cb3eb3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GetPost.php" afterPath="$PROJECT_DIR$/GetPost.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,11 +31,11 @@
       <file leaf-file-name="GetPost.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GetPost.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            <state relative-caret-position="272">
+              <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
               <folding>
-                <marker date="1496934765468" expanded="true" signature="153:212" ph="SELECT * FRO... post" />
-                <marker date="1496934765468" expanded="true" signature="501:538" ph="SELECT * FRO... user" />
+                <marker date="1496935023565" expanded="true" signature="136:195" ph="SELECT * FRO... post" />
+                <marker date="1496935023565" expanded="true" signature="500:537" ph="SELECT * FRO... user" />
               </folding>
             </state>
           </provider>
@@ -202,8 +201,8 @@
         <option value="$PROJECT_DIR$/Register.php" />
         <option value="$PROJECT_DIR$/GetUser.php" />
         <option value="$PROJECT_DIR$/AddComment.php" />
-        <option value="$PROJECT_DIR$/GetPost.php" />
         <option value="$PROJECT_DIR$/ResetPassword.php" />
+        <option value="$PROJECT_DIR$/GetPost.php" />
       </list>
     </option>
   </component>
@@ -350,15 +349,15 @@
       <option name="presentableId" value="Default" />
       <updated>1496932080297</updated>
       <workItem from="1496932081845" duration="768000" />
-      <workItem from="1496933331923" duration="1463000" />
+      <workItem from="1496933331923" duration="1695000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2231000" />
+    <option name="totallyTimeSpent" value="2463000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="81" y="71" width="1283" height="688" extended-state="1" />
+    <frame x="81" y="71" width="1283" height="688" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24940805" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -404,8 +403,8 @@
         <state relative-caret-position="17">
           <caret line="1" column="8" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
           <folding>
-            <marker date="1496934765468" expanded="true" signature="153:212" ph="SELECT * FRO... post" />
-            <marker date="1496934765468" expanded="true" signature="501:538" ph="SELECT * FRO... user" />
+            <marker date="1496935023565" expanded="true" signature="136:195" ph="SELECT * FRO... post" />
+            <marker date="1496935023565" expanded="true" signature="500:537" ph="SELECT * FRO... user" />
           </folding>
         </state>
       </provider>
@@ -838,11 +837,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GetPost.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        <state relative-caret-position="272">
+          <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
           <folding>
-            <marker date="1496934765468" expanded="true" signature="153:212" ph="SELECT * FRO... post" />
-            <marker date="1496934765468" expanded="true" signature="501:538" ph="SELECT * FRO... user" />
+            <marker date="1496935023565" expanded="true" signature="136:195" ph="SELECT * FRO... post" />
+            <marker date="1496935023565" expanded="true" signature="500:537" ph="SELECT * FRO... user" />
           </folding>
         </state>
       </provider>
